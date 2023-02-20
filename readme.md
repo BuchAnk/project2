@@ -1,5 +1,5 @@
 # Projekt2, tytuł strony
 
-## pod tytuł
+## podtytuł
 ------------------
-###Zajrzyj [tutaj](https://websamuraj.pl)
+### Zajrzyj [tutaj](https://websamuraj.pl)
